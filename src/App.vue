@@ -3,6 +3,6 @@
 </script>
 
 <template>
-  <NavMenu />
-  <RouterView />
+  <NavMenu/>
+  <RouterView/>
 </template>
